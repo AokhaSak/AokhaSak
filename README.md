@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm AokhaSak</h1>
 <h5 align="left">Shibe lover <3</h5>
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AokhaSak&show_icons=true&theme=radical)
+
+  
  [![trophy](https://github-profile-trophy.vercel.app/?username=AokhaSak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
