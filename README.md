@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kaito Kusaba a.k.a AokhaSak</h1>
 <h3 align="left">Shibe lover <3</h3>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AokhaSak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AokhaSak&show_icons=true&theme=radical)
 
   
