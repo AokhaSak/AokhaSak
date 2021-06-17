@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm AokhaSak</h1>
-<h3 align="left">Shibe lover <3</h3>
+<h5 align="left">Shibe lover <3</h5>
   
-  
-  <p>$skills</p>
+ 
 <p align="left">
     <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20" /> </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="20" height="20" /> </a>
