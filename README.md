@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm AokhaSak</h1>
+<h1 align="left">Hi 👋, I'm Kaito Kusaba.</h1>
 <h3 align="left">Shibe lover <3</h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AokhaSak&show_icons=true&theme=radical)
